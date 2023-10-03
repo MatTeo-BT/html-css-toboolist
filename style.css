@@ -57,6 +57,7 @@ body{
     border-radius: 10px;
     padding: 5px;
     font-size: 13px;
+   
 }
 .purple{
     background-color: rgb(177, 43, 234);
@@ -95,10 +96,23 @@ body{
 }
 
  .spunta{
-    background: rgb(50, 223, 64);
-    border-radius: 100%;
+    background: white;
+    border-radius: 50%;
     color: rgb(50, 223, 64);
-    border-width: 30%;
+    border: 1px solid rgb(50, 223, 64);
+    height: 50px;
+    padding: 1px;
 }   
-
+ul{
+    list-style-type: none;
+}
+.cross{
+    background: white;
+    border-radius: 50%;
+    color: rgb(213, 29, 29);
+    border: 1px solid rgb(213, 29, 29);
+    height: 50px;
+    padding: 1px;
+    
+}
     
